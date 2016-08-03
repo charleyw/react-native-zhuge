@@ -1,0 +1,11 @@
+{
+  "name": "react-native-zhugeio",
+  "version": "0.1.0",
+  "description": "zhugeio.com for react native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
