@@ -1,11 +1,17 @@
 {
-  "name": "react-native-zhugeio",
+  "name": "react-native-pingplusplus",
   "version": "0.1.0",
-  "description": "zhugeio.com for react native",
+  "description": "react native ping++ payment",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "keywords": [
+    "react",
+    "native",
+    "ping++",
+    "payment"
+  ],
+  "author": "Chao WANG",
   "license": "MIT"
 }
