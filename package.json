@@ -1,14 +1,17 @@
 {
   "name": "react-native-zhuge",
   "version": "0.1.0",
-  "description": "react native zhuge tracking",
+  "description": "react native zhugeio.com tracking",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repo": "https://github.com/charleyw/react-native-zhuge",
+  "issue": "https://github.com/charleyw/react-native-zhuge/issues",
   "keywords": [
-    "react",
-    "native",
+    "react native",
+    "tracking",
+    "growth hacking",
     "zhuge",
     "zhugeio",
     "zhugeio.com"
